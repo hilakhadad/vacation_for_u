@@ -39,7 +39,7 @@ public class ReadAll {
     }
 
     /**
-     * show the search results . should be from the View
+     * show search results . should be from the View
      * @param searchResults list of records that match the search fields
      */
     public void showSearchResults(List<User> searchResults){
